@@ -1,0 +1,12 @@
+Following Python modules are required to be installed:
+
+1. praw (Python wrapper for Reddit API)
+2. pandas
+3. nltk
+4. wordcloud
+5. matplotlib
+6. sklearn
+7. pickle
+
+The above modules can be installed on a Windows system using pip.
+
